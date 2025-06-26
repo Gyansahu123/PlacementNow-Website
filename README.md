@@ -1,11 +1,11 @@
 # PlacementNow-Website
 
-#  PlacementNow – Campus Placement Management System
+#  PlacementNow – Campus Placement Website
 
 [![GitHub Repo](https://github.com/Gyansahu123/PlacementNow-Website.git)
 
 **PlacementNow** is a fully functional, database-driven web application developed using **Python Django** as a part of my **Minor Project**.  
-It simulates a modern-day **Campus Placement Portal** where both **students and companies** can register, log in, and manage placement-related activities.
+It simulates a modern-day **Campus Placement Portal** where both **students and companies** can register, login, and manage placement-related activities.
 
 ---
 
@@ -44,5 +44,5 @@ To provide a centralized web platform where:
 
 ---
 
-## 📂 Folder Structure
+
 
